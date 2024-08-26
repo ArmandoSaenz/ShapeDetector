@@ -14,7 +14,7 @@ model = models.Sequential([
 #Se cargan los pesos
 model.load_weights('modelos_chidos.h5')
 
-
+#leomenso
 
 cap = cv2.VideoCapture(0)
 #cap.set(cv2.CAP_PROP_BRIGHTNESS,5)
